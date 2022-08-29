@@ -19,7 +19,7 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "合肥",
+    PROVINCE: "安徽",
     // 所在城市
     CITY: "合肥",
 
